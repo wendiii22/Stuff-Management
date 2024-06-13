@@ -1,0 +1,46 @@
+{
+  "stuff": [
+    {
+      "id": "3823",
+      "name": "Computer",
+      "price": "12000",
+      "category": "electronic"
+    },
+    {
+      "id": "5cb9",
+      "name": "Keyboard",
+      "price": "120",
+      "category": "electronic"
+    },
+    {
+      "id": "e56a",
+      "name": "table",
+      "price": "15",
+      "category": "Furniture"
+    },
+    {
+      "id": "0068",
+      "name": "Mouse",
+      "price": "300",
+      "category": "Electronic"
+    }
+  ],
+  "category": [
+    {
+      "id": "35ce",
+      "name": "Furniture"
+    },
+    {
+      "id": "17e1",
+      "name": "Electronic"
+    },
+    {
+      "id": "69b6",
+      "name": "Food and Drink"
+    },
+    {
+      "id": "0e4e",
+      "name": "Cek"
+    }
+  ]
+}
